@@ -1,0 +1,21 @@
+{
+    "header": {
+      "menu": {
+        "about": "About",
+        "projects": "Projects",
+        "services": "Services",
+        "contact": "Contact"
+    
+      },
+      "mobile_nav": {
+        "menu": "Menu",
+        "home": "Home",
+        "about": "About",
+        "projects": "Projects",
+        "services": "Services",
+        "contact": "Contact"
+      
+      }
+    }
+    
+}
